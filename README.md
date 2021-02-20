@@ -12,7 +12,6 @@
 - 💬 Ask me about composing and music.  I am a full time composer!
 - 📫 How to reach me: jasonbringle@gmail.com
 - ⚡ Fun fact: Remember the "Flo" campaign from Progressive Insurance?  I wrote the main theme for those commercials!
-- BUT REALLY:  I'm a junior web dev trying to make my way into the space by being able to contribute in real ways.  I dont just want a job... 
-I want to build knowledge to continue doing this for the remainder of my time here on earth so that I can contribute/teach others and build awesome stuff
-to improve this world!
+- BUT REALLY:  I'm a junior web dev trying to make my way into the space by contributing in real ways.  I dont just want a job... 
+I want to build knowledge to continue doing this for the remainder of my time here on earth so that I can contribute/teach others and build awesome stuff!
 

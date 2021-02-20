@@ -2,8 +2,8 @@
 
 <!--
 **jasonbringle/jasonbringle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Labs project for Lambda School.
 - 🌱 I’m currently learning soft skills while coding in React and Node/js
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - BUT REALLY:  I'm a junior web dev trying to make my way into the space by being able to contribute in real ways.  I dont just want a job... 
 I want to build knowledge to continue doing this for the remainder of my time here on earth so that I can contribute/teach others and build awesome stuff
 to improve this world!
--->
+
